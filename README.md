@@ -1,185 +1,24 @@
-<!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
-<html lang="ru-RU"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="https://gmpg.org/xfn/11">
-
-	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-
-	<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->
-	<style type="text/css"></style><title>All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - «CRYPTO DEEP TECH»</title>
-	<meta name="description" content="This article will focus on the physical security of our cryptocurrencies. We have been engaged in cryptanalysis for a long time and decided to collect all known physical attacks on Bitcoin that occurred during the period from 2014 to 2022.">
-	<link rel="canonical" href="https://cryptodeeptech.ru/physical-bitcoin-attacks/">
-	<meta property="og:locale" content="ru_RU">
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - «CRYPTO DEEP TECH»">
-	<meta property="og:description" content="This article will focus on the physical security of our cryptocurrencies. We have been engaged in cryptanalysis for a long time and decided to collect all known physical attacks on Bitcoin that occurred during the period from 2014 to 2022.">
-	<meta property="og:url" content="https://cryptodeeptech.ru/physical-bitcoin-attacks/">
-	<meta property="og:site_name" content="«CRYPTO DEEP TECH»">
-	<meta property="article:published_time" content="2022-11-14T16:06:27+00:00">
-	<meta property="article:modified_time" content="2022-11-14T23:17:50+00:00">
-	<meta property="og:image" content="https://cryptodeeptech.ru/wp-content/uploads/2022/11/024-1024x576.png">
-	<meta name="author" content="Crypto Deep Tech">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:label1" content="Написано автором">
-	<meta name="twitter:data1" content="Crypto Deep Tech">
-	<meta name="twitter:label2" content="Примерное время для чтения">
-	<meta name="twitter:data2" content="237 минут">
-	<script async="" src="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/tag.js"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#article","isPartOf":{"@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/"},"author":{"name":"Crypto Deep Tech","@id":"https://cryptodeeptech.ru/#/schema/person/0ef8ac0f63991970628a3a6587f9e6c0"},"headline":"All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022","datePublished":"2022-11-14T16:06:27+00:00","dateModified":"2022-11-14T23:17:50+00:00","mainEntityOfPage":{"@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/"},"wordCount":35230,"publisher":{"@id":"https://cryptodeeptech.ru/#organization"},"image":{"@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#primaryimage"},"thumbnailUrl":"https://cryptodeeptech.ru/wp-content/uploads/2022/11/024-1024x576.png","articleSection":["Cryptanalysis"],"inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/","url":"https://cryptodeeptech.ru/physical-bitcoin-attacks/","name":"All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - «CRYPTO DEEP TECH»","isPartOf":{"@id":"https://cryptodeeptech.ru/#website"},"primaryImageOfPage":{"@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#primaryimage"},"image":{"@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#primaryimage"},"thumbnailUrl":"https://cryptodeeptech.ru/wp-content/uploads/2022/11/024-1024x576.png","datePublished":"2022-11-14T16:06:27+00:00","dateModified":"2022-11-14T23:17:50+00:00","description":"This article will focus on the physical security of our cryptocurrencies. We have been engaged in cryptanalysis for a long time and decided to collect all known physical attacks on Bitcoin that occurred during the period from 2014 to 2022.","breadcrumb":{"@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://cryptodeeptech.ru/physical-bitcoin-attacks/"]}]},{"@type":"ImageObject","inLanguage":"ru-RU","@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#primaryimage","url":"https://cryptodeeptech.ru/wp-content/uploads/2022/11/024.png","contentUrl":"https://cryptodeeptech.ru/wp-content/uploads/2022/11/024.png","width":1280,"height":720},{"@type":"BreadcrumbList","@id":"https://cryptodeeptech.ru/physical-bitcoin-attacks/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница","item":"https://cryptodeeptech.ru/"},{"@type":"ListItem","position":2,"name":"All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022"}]},{"@type":"WebSite","@id":"https://cryptodeeptech.ru/#website","url":"https://cryptodeeptech.ru/","name":"«CRYPTO DEEP TECH»","description":"Cryptanalysis and data financial security services","publisher":{"@id":"https://cryptodeeptech.ru/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cryptodeeptech.ru/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"Organization","@id":"https://cryptodeeptech.ru/#organization","name":"«CRYPTO DEEP TECH»","url":"https://cryptodeeptech.ru/","logo":{"@type":"ImageObject","inLanguage":"ru-RU","@id":"https://cryptodeeptech.ru/#/schema/logo/image/","url":"https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-header4.png","contentUrl":"https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-header4.png","width":1279,"height":319,"caption":"«CRYPTO DEEP TECH»"},"image":{"@id":"https://cryptodeeptech.ru/#/schema/logo/image/"}},{"@type":"Person","@id":"https://cryptodeeptech.ru/#/schema/person/0ef8ac0f63991970628a3a6587f9e6c0","name":"Crypto Deep Tech","sameAs":["https://cryptodeeptech.ru","https://www.youtube.com/channel/UCd8W6qtRSiBn0Q0wy6HuNkQ/"],"url":"https://cryptodeeptech.ru/author/cryptodeeptech/"}]}</script>
-	<!-- / Yoast SEO plugin. -->
+# All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022
 
 
-<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-<link rel="alternate" type="application/rss+xml" title="«CRYPTO DEEP TECH» » Лента" href="https://cryptodeeptech.ru/feed/">
-<link rel="alternate" type="application/rss+xml" title="«CRYPTO DEEP TECH» » Лента комментариев" href="https://cryptodeeptech.ru/comments/feed/">
-<link rel="stylesheet" id="itng-block-style-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_8f426a1779caff96bb3f2afbcff86bc9.css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/style.min.css" media="all">
-<link rel="stylesheet" id="classic-theme-styles-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/classic-themes.min.css" media="all">
-<style id="global-styles-inline-css">
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel="stylesheet" id="wp-date-remover-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_e6094661d8923e95b233019ebff7c8f0.css" media="all">
-<link rel="stylesheet" id="itng-fonts-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/css" media="all">
-<link rel="stylesheet" id="itng-style-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_8de4505c66a21eefd3c1c98b6400e4e1.css" media="all">
-<link rel="stylesheet" id="itng-main-style-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_d1cf6f49400112d539e59eee9b75e10d.css" media="all">
-<style id="itng-main-style-inline-css">
-.custom-logo-link img {width: 400px;}@media screen and (min-width: 992px) {#header-image .header-overlay {
-            opacity: 0.01;
-        }}
-ins,
-	.nav-wrapper,
-	#menu,
-	.main-navigation ul#menu-desktop ul,
-	#itng-featured-news .slider-post-wrapper .posted-on a,
-	#itng-featured-news #itng-featured-news-list-container .posted-on a,
-	#itng-featured-posts .itng-featured-post-date,
-	#itng-featured-news #itng-featured-news-carousel-container .posted-on a,
-	#colophon,
-	[class^=itng-search] form,
-	#itng-featured-cat .featured-cat-thumb h2,
-	#itng-featured-cat .featured-cat-thumb h3
-	{background-color: #008bca}article .entry-meta a,
-	article .blog-footer,
-	article .blog-footer a,
-	.widget a,
-	.nav-links a,
-	.itng-pagination .nav-links > a,
-	.itng-pagination .dots
-	{color: #008bca !important}blockquote,
-	#itng-content-title span
-	{border-color: #008bca}button.top-menu-mobile
-	{background-color: #43bdf2 !important}#footer-sidebar .widget-title
-	{color: #43bdf2 !important}
-</style>
-<link rel="stylesheet" id="bootstrap-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_d26191bd0380b0cf97525a613b8b566c.css" media="all">
-<link rel="stylesheet" id="owl-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_c8322bd5bffc8e2856f2cbcd03c61d18.css" media="all">
-<link rel="stylesheet" id="mag-popup-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_30b593b71d7672658f89bfea0ab360c9.css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_c495654869785bc3df60216616814ad1.css" media="all">
-<script src="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/jquery.min.js" id="jquery-core-js"></script>
-<script src="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-<script src="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/wmac_single_49cea0a781874a962879c2caca9bc322.js" id="wp-date-remover-js"></script>
-<link rel="https://api.w.org/" href="https://cryptodeeptech.ru/wp-json/"><link rel="alternate" type="application/json" href="https://cryptodeeptech.ru/wp-json/wp/v2/posts/1199"><meta name="generator" content="WordPress 6.1">
-<link rel="alternate" type="application/json+oembed" href="https://cryptodeeptech.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcryptodeeptech.ru%2Fphysical-bitcoin-attacks%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://cryptodeeptech.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcryptodeeptech.ru%2Fphysical-bitcoin-attacks%2F&amp;format=xml">
-<!-- Analytics by WP Statistics v13.2.7 - https://wp-statistics.com/ -->
-<script>var WP_Statistics_http = new XMLHttpRequest();WP_Statistics_http.open('GET', 'https://cryptodeeptech.ru/wp-json/wp-statistics/v2/hit?_=1668467880&_wpnonce=b60a0ca00c&wp_statistics_hit_rest=yes&referred=https%3A%2F%2Fcryptodeeptech.ru%2F&exclusion_match=no&exclusion_reason&track_all=1&current_page_type=post&current_page_id=1199&search_query&page_uri=/physical-bitcoin-attacks/', true);WP_Statistics_http.setRequestHeader("Content-Type", "application/json;charset=UTF-8");WP_Statistics_http.send(null);</script>
-		<style type="text/css">
-						#header-image {
-						background-image: url(https://cryptodeeptech.ru/wp-content/uploads/2022/07/header3.jpg);
-						background-size: cover;
-						background-repeat: repeat;
-						background-position: center center;
-				}
-							.site-title, .site-description {
-				display: none;
-				position: absolute;
-				clip: rect(1px, 1px, 1px, 1px);
-				}
-					</style>
-		<style id="custom-background-css">
-body.custom-background { background-color: #eff3fd; }
-</style>
-	<link rel="icon" href="https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-favicon7-32x32.png" sizes="32x32">
-<link rel="icon" href="https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-favicon7-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-favicon7-180x180.png">
-<meta name="msapplication-TileImage" content="https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-favicon7-270x270.png">
-</head>
+---
+---
 
-<body data-rsssl="1" class="post-template-default single single-post postid-1199 single-format-standard custom-background wp-custom-logo no-sidebar">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="https://cryptodeeptech.ru/physical-bitcoin-attacks/#primary">Skip to content</a>
-
-	
-	    <header id="masthead" class="site-header style-1">
-
-		    
-	        <div id="header-image">
-		        <div class="site-branding">
-					<a href="https://cryptodeeptech.ru/" class="custom-logo-link" rel="home"><img width="1279" height="319" src="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/cropped-header4.png" class="custom-logo" alt="«CRYPTO DEEP TECH»" decoding="async" srcset="https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-header4.png 1279w, https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-header4-300x75.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-header4-1024x255.png 1024w, https://cryptodeeptech.ru/wp-content/uploads/2022/07/cropped-header4-768x192.png 768w" sizes="(max-width: 1279px) 100vw, 1279px" title="All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022"></a>	<h2 class="site-title"><a href="https://cryptodeeptech.ru/" rel="home">«CRYPTO DEEP TECH»</a></h2>
-		<p class="site-description">Cryptanalysis and data financial security services</p>
-	        	</div>
-				<div class="header-overlay"></div>
-	        </div>
-
-			<div class="nav-wrapper">
-				 <div class="container">
-					 <div class="d-flex">
-
-						<div id="site-navigation" class="main-navigation col-lg-11" role="navigation">
-							<ul id="menu-desktop" class="menu"><li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-229"><a href="https://cryptodeeptech.ru/">HOME</a></li>
-<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://cryptodeeptech.ru/publication/">PUBLICATIONS</a></li>
-<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://cryptodeeptech.ru/study/">STUDY</a></li>
-<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://cryptodeeptech.ru/resources/">RESOURCES</a></li>
-<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://cryptodeeptech.ru/contacts/">CONTACTS</a></li>
-<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-240"><a href="https://cryptodeeptech.ru/lattice-attack/">BLOG</a></li>
-<li id="menu-item-541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="https://cryptodeeptech.ru/eng/">ENG</a></li>
-<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="https://cryptodeeptech.ru/rus/">RUS</a></li>
-</ul>						</div>
-
-						<button href="#menu" class="menu-link mobile-nav-btn col-auto"><i class="fa fa-bars" aria-hidden="true"></i></button>
-
-						<div id="search-wrapper" class="ml-auto col-auto d-flex">
-							<button type="button" id="go-to-field" tabindex="-1"></button>
-					    	<button class="search-btn-main"><i class="fa fa-search"></i></button>
-					    	
-<div class="itng-search-main">
-	<form role="search" method="get" class="search-form" action="https://cryptodeeptech.ru/">
-				<label>
-					<span class="screen-reader-text">Найти:</span>
-					<input type="search" class="search-field" placeholder="Поиск…" value="" name="s">
-				</label>
-				<input type="submit" class="search-submit" value="Поиск">
-			</form>	<button type="button" id="go-to-btn" tabindex="-1"></button>
-</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</header><!-- #masthead -->
-			<div id="content-wrapper" class="container row">
-		
-	<main id="primary" class="site-main container order-1">
-
-		
-<article id="post-1199" class="post-1199 post type-post status-publish format-standard hentry category-cryptanalysis">
-	
-	<header class="entry-header">
-		<h1 class="entry-title">All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022</h1>	</header><!-- .entry-header -->
-	
-	
-	
-			<div class="entry-meta">
-			<span class="posted-on" style="display: none;"><a href="https://cryptodeeptech.ru/physical-bitcoin-attacks/" rel="bookmark"><time class="entry-date published" datetime="" style="display: none;"></time><time class="updated" datetime=""></time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://cryptodeeptech.ru/author/cryptodeeptech/">Crypto Deep Tech</a></span></span>		</div><!-- .entry-meta -->
-		
-	
-	<div class="entry-content">
 		
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="./All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022 - CRYPTO DEEP TECH_files/024-1024x576.png" alt="All known physical attacks on Bitcoin and other cryptocurrencies from 2014 to 2022" class="wp-image-1192" srcset="https://cryptodeeptech.ru/wp-content/uploads/2022/11/024-1024x576.png 1024w, https://cryptodeeptech.ru/wp-content/uploads/2022/11/024-300x169.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2022/11/024-768x432.png 768w, https://cryptodeeptech.ru/wp-content/uploads/2022/11/024.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+---
+---
+
+
+* Tutorial: https://youtu.be/YRtxzkB3tV4
+* Tutorial: https://cryptodeeptech.ru/physical-bitcoin-attacks
+
+
+---
+---
 
 
 
